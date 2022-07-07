@@ -1,0 +1,9 @@
+@use 'abstracts/variables' as var;
+@use 'abstracts/mixins' as mixin;
+.section-hero {
+    background-color: var.$color5;
+    .container {
+        padding-top: 210px;
+        padding-bottom: 88px;
+    }
+}

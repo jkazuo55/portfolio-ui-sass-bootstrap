@@ -1,0 +1,20 @@
+    // Fonts
+    @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700&display=swap');
+    /* colors */
+    
+    $color1: #FFFFFF;
+    $color2: #000000;
+    $color3: #21243D;
+    /* font and typography */
+    
+    $font-Heebo: 'Heebo',
+    sans-serif;
+    /* z index */
+    
+    $global-z-fixed: 99;
+    // breakpoints
+    $small-screen:576px;
+    $medium-screen:768px;
+    $large-screen:992px;
+    $extra-large-screen:1200px;
+    $extra-extra-large-screen:1400px;

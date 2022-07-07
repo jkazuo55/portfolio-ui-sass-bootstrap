@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-ui-sass-bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jkazuo55/portfolio-ui-sass-bootstrap.git",
+  "author": "jkazuo55 <jkazuo555@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.53.0"
+  }
+}
